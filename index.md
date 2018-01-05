@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到First10仓库主页
 
 You can use the [editor on GitHub](https://github.com/ixueaedu/first10/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
